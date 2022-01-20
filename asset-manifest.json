@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shadhin-bazarbd-shop/static/css/main.67ba0fe0.css",
+    "main.js": "/shadhin-bazarbd-shop/static/js/main.156b5b55.js",
+    "static/js/787.23965a48.chunk.js": "/shadhin-bazarbd-shop/static/js/787.23965a48.chunk.js",
+    "static/media/amazon-logo-s3f.png": "/shadhin-bazarbd-shop/static/media/amazon-logo-s3f.5d81ff2b4d7319079cd6.png",
+    "static/media/logo-png.png": "/shadhin-bazarbd-shop/static/media/logo-png.723b698345a9aad90512.png",
+    "index.html": "/shadhin-bazarbd-shop/index.html",
+    "main.67ba0fe0.css.map": "/shadhin-bazarbd-shop/static/css/main.67ba0fe0.css.map",
+    "main.156b5b55.js.map": "/shadhin-bazarbd-shop/static/js/main.156b5b55.js.map",
+    "787.23965a48.chunk.js.map": "/shadhin-bazarbd-shop/static/js/787.23965a48.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ba0fe0.css",
+    "static/js/main.156b5b55.js"
+  ]
+}
